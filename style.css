@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #eeeeee;
+}
+.title
+{
+    text-align: center;
+    color: #0d2e50;
+}
+h1,h2{
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
+}
+.sub_title
+{
+    text-align: center;
+    color: #0d2e50;
+
+}
+ul>li
+{
+    list-style-type: square !important;
+}
+.sub_title2
+{
+    font-weight: bold;
+}
+.page-footer
+{
+    background-color: #757575;
+}
+.cright
+{
+    text-align: center;
+}
